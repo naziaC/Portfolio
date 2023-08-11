@@ -1,5 +1,11 @@
 # Nazia’s Portfolio 🫶
 
+Welcome to my portfolio! 
+
+Here is a list of the projects I've completed. Check out the repositories by clicking the project title! 
+
+If you'd like to learn more about me, check out my [GitHub profile](https://github.com/naziaC) or my [LinkedIn](https://www.linkedin.com/in/naziachowdhury/)!
+
 ## Projects
 
 | Project | Completion Date | Description | Tools |
