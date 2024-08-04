@@ -10,6 +10,7 @@ If you'd like to learn more about me, check out my [GitHub profile](https://gith
 
 | Project | Completion Date | Description | Tools |
 | --------------- |-------------| -----|-----|
+| [Operating Systems 💻](https://github.com/naziaC/ECSE427) | November 2023 | Assignments for ECSE 3427 (Operating Systems) course.| C |
 | [Signals & Networks👩🏽‍💻](https://github.com/naziaC/ECSE316) | November 2023 | Assignments for ECSE 316 (Signals & Networks) course.| Python |
 | [OnCampus 📍   ](https://github.com/ECSE-428-Group-5-W-2023/OnCampus) | April 2023 | Developed a scheduling application that allows students to share their schedule with friends to see when breaks align to hangout, schedule a study session or even find time to meet for group projects. | React.js, PostgreSQL, Auth0, Docker, Cypress |
 | [Robot Delivery Service 🤖  ](https://github.com/Lucy-Zh/ECSE211-23) | April 2023 | Developed a robot delivery service using sensors, motors, a BrickPi and Raspberry Pi setup, coding its actions in Python. | Python |
